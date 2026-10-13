@@ -1,9 +1,4 @@
-// && -> AND Gate
-// || -> OR Gate
+console.log("5" + 3);
+console.log("5" - 3);
 
-let a = true;
-let b = false;
 
-console.log(a && b);
-console.log(a || b);
-console.log(!a);
